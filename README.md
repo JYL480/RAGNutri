@@ -89,4 +89,4 @@ pip install -r requirements.txt
 ```sh
 streamlit run app.py
 ```
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
